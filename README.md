@@ -7,6 +7,7 @@ Target: Identify the type of weather based on the image
 4. Sunrise
 ## Dataset
 Training data: 1048
+
 Testing data: 75
 ## Steps
 1. Data Preprocessing
