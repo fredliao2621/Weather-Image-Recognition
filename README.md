@@ -1,4 +1,5 @@
 # Weather-Image-Recognition
+Target: Identify the type of weather based on the image
 ## Steps
 1. Data Preprocessing
 2. Build a simple CNN
